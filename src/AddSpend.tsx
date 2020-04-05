@@ -15,7 +15,7 @@ export default function AddSpend() {
 
   return (
     <form onSubmit={onSubmit}>
-      <label>Cost</label>
+      <label>Cost 22</label>
       <input name="costValue" ref={register} />
       <label>Category</label>
       <input name="category" ref={register} />
